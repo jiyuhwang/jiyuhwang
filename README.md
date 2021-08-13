@@ -21,12 +21,17 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jiyu.dev@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/goo.cannotdry/)](https://www.instagram.com/goo.cannotdry/) 
 [![Blog Badge](http://img.shields.io/badge/-Blog-brightgreen?style=flat-square&logo=FF5722&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/wldb2568)
-
 <br>
 
-## Work experience 🤹‍♀️
-- 
-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyuHwang&theme=tokyonight_icons=true)
+
+## Teck Stack 🤹‍♀️
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
 
 ## Interest 👀
 - coding
