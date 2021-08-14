@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JiyuHwang&fontSize=90)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyuhwang&count_bg=%23719FD5&title_bg=%233F74A5&icon=&icon_color=%9cf&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyuHwang&theme=tokyonight_icons=true)
 
 ## 🤹‍♀️Tech Stack 🤹‍♀️
@@ -31,8 +34,6 @@ Here are some ideas to get you started:
 ![Oracle](https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyuhwang&count_bg=%23719FD5&title_bg=%233F74A5&icon=&icon_color=%9cf&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Interest 👀
 - coding
